@@ -3,7 +3,7 @@ const name = ref<string>('123');
 </script>
 
 <template>
-  <div>{{ name }}</div>
+  <div class="text-jumbo">{{ name }}</div>
 </template>
 
 <style scoped></style>

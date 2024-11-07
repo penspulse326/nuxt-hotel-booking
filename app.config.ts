@@ -1,5 +1,1 @@
-export default defineAppConfig({
-  ui: {
-    primary: 'primary',
-  },
-});
+export default defineAppConfig({});

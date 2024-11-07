@@ -45,6 +45,9 @@ export default <Partial<Config>>{
       fontSize: {
         jumbo: '100px',
       },
+      fontFamily: {
+        sans: ['Noto Sans TC', 'sans-serif'],
+      },
     },
   },
 };
